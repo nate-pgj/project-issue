@@ -1,0 +1,4 @@
+gh api repos/nate-pgj/project-issue/issues
+
+查看全部issues
+gh api repos/MEDM-EDUHK/Project-Issue/issues
